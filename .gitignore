@@ -1,0 +1,79 @@
+# ===========================
+# C++ Compiled Files
+# ===========================
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+
+# ===========================
+# Build Directories
+# ===========================
+build/
+bin/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# ===========================
+# IDE / Editor Files
+# ===========================
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+ipch/
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# ===========================
+# OS Generated Files
+# ===========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# ===========================
+# Miscellaneous
+# ===========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
