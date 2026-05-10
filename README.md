@@ -1,10 +1,10 @@
-# 🎮 Tic-Tac-Toe & Ultimate Tic-Tac-Toe
+# Tic-Tac-Toe & Ultimate Tic-Tac-Toe
 
 A C++ implementation of the classic **Tic-Tac-Toe** game along with the advanced **Ultimate Tic-Tac-Toe** variant — built using Object-Oriented Programming principles.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -15,7 +15,7 @@ A C++ implementation of the classic **Tic-Tac-Toe** game along with the advanced
 
 ---
 
-## ✨ Features
+## Features
 
 - **Classic Tic-Tac-Toe** — Play on a standard 3×3 board or customize the board size (N×N)
 - **Ultimate Tic-Tac-Toe** — A strategic 9-board variant where each cell contains its own Tic-Tac-Toe game
@@ -26,7 +26,7 @@ A C++ implementation of the classic **Tic-Tac-Toe** game along with the advanced
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TIC-TAC-TOE/
@@ -41,7 +41,7 @@ TIC-TAC-TOE/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ game.exe
 
 ---
 
-## 🎯 How to Play
+## How to Play
 
 ### Classic Tic-Tac-Toe
 1. Players take turns placing **X** or **O** on the board
@@ -83,7 +83,7 @@ game.exe
 
 ---
 
-## 📏 Game Rules
+## Game Rules
 
 ### Classic Mode
 | Rule | Description |
@@ -103,7 +103,7 @@ game.exe
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Language:** C++11
 - **Paradigm:** Object-Oriented Programming
@@ -111,12 +111,12 @@ game.exe
 
 ---
 
-## 👤 Author
+## Author
 
 **Abdul** — [@Abduls-stack](https://github.com/Abduls-stack)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
